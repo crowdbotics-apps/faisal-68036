@@ -85,6 +85,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [payments]()
 - [react-native-zoom-free-calling](modules/zoom-free-calling)
 - [react-native-photo-editing](modules/photo-editing)
+- [react-native-image-gallery](modules/image-gallery)
 
 # Getting started: Frontend
 
