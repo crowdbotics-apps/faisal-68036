@@ -41,6 +41,7 @@
     "@modules/side-drawer": "file:./modules/side-drawer/",
     "@modules/signature": "file:./modules/signature/",
     "@modules/social-feed": "file:./modules/social-feed",
+    "@modules/social-login": "file:./modules/social-login/",
     "@modules/typeform-webhook": "file:./modules/typeform-webhook/",
     "@modules/zoom-free-calling": "file:./modules/zoom-free-calling/",
     "@react-native-async-storage/async-storage": "1.17.9",
