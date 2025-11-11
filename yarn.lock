@@ -1868,10 +1868,13 @@
     prop-types "15.8.1"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
-"@modules/mapbox-maps@file:./modules/mapbox-maps/":
+"@modules/mapbox-maps@file:./modules/mapbox-maps":
   version "1.0.0"
 
 "@modules/maps@file:./modules/maps":
+  version "1.0.0"
+
+"@modules/maps@file:./modules/maps/":
   version "1.0.0"
 
 "@modules/qr-code@file:./modules/qr-code":
