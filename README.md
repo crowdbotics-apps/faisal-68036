@@ -84,6 +84,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-typeform-webhook](modules/typeform-webhook)
 - [payments]()
 - [react-native-zoom-free-calling](modules/zoom-free-calling)
+- [react-native-photo-editing](modules/photo-editing)
 
 # Getting started: Frontend
 
