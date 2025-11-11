@@ -68,6 +68,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-azure-ad-auth](modules/azure-ad-auth)
 - [react-native-qr-code](modules/qr-code)
 - [react-native-camera](modules/camera)
+- [react-native-chat](modules/chat)
 
 # Getting started: Frontend
 
