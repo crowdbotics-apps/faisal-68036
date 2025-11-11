@@ -91,6 +91,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-signature](modules/signature)
 - [react-native-side-drawer](modules/side-drawer)
 - [react-native-social-login](modules/social-login)
+- [react-native-splash](modules/splash)
 
 # Getting started: Frontend
 
