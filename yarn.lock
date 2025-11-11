@@ -3008,6 +3008,9 @@
     prop-types "15.8.1"
     react-native-elements "^2.3.2"
 
+"@modules/youtube-player@file:./modules/youtube-player":
+  version "1.0.0"
+
 "@modules/youtube-player@file:./modules/youtube-player/":
   version "1.0.0"
 
