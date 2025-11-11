@@ -1871,10 +1871,10 @@
 "@modules/mapbox-maps@file:./modules/mapbox-maps":
   version "1.0.0"
 
-"@modules/mapbox-maps@file:./modules/mapbox-maps/":
+"@modules/maps@file:./modules/maps":
   version "1.0.0"
 
-"@modules/maps@file:./modules/maps":
+"@modules/maps@file:./modules/maps/":
   version "1.0.0"
 
 "@modules/qr-code@file:./modules/qr-code":
@@ -8953,12 +8953,10 @@ react-native-maps-directions@1.8.0:
     lodash.isequal "^4.5.0"
     prop-types "^15.6.0"
 
-react-native-maps@1.7.1:
-  version "1.7.1"
-  resolved "https://registry.yarnpkg.com/react-native-maps/-/react-native-maps-1.7.1.tgz#e0b9d68542b4b59b5ca3df375ada7c860fb41f2e"
-  integrity sha512-CHVLzL+Q2jiUGgbt4/vosxVI1SukWyaLGjD62VLgR/wZpnH4Umi9ql1bmKDPWcfj2C1QZwMU0Yc7rXTbvZUIiw==
-  dependencies:
-    "@types/geojson" "^7946.0.10"
+react-native-maps@0.27.1:
+  version "0.27.1"
+  resolved "https://registry.yarnpkg.com/react-native-maps/-/react-native-maps-0.27.1.tgz#2f10cd417bb2fd938c9e015b1c9b6d9b1a44b97f"
+  integrity sha512-HygBkZBecTnIVRYrSiLRAvu4OmXOYso/A7c6Cy73HkOh9CgGV8Ap5eBea24tvmFGptjj5Hg8AJ94/YbmWK1Okw==
 
 react-native-pager-view@5.4.15:
   version "5.4.15"
