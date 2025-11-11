@@ -80,6 +80,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-live-camera-filters](modules/live-camera-filters)
 - [react-native-mapbox-maps](modules/mapbox-maps)
 - [react-native-mixpanel-analytics](modules/mixpanel-analytics)
+- [react-native-onboarding](modules/onboarding)
 
 # Getting started: Frontend
 
