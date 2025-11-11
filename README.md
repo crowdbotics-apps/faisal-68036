@@ -67,6 +67,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-audio-player](modules/audio-player)
 - [react-native-azure-ad-auth](modules/azure-ad-auth)
 - [react-native-qr-code](modules/qr-code)
+- [react-native-camera](modules/camera)
 
 # Getting started: Frontend
 
